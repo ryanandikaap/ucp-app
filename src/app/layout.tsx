@@ -3,8 +3,8 @@ import "./globals.css";
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: "San Andreas Roleplay - UCP",
-  description: "User Control Panel for GTA SAMP Server",
+  title: "Nocturne Roleplay - UCP",
+  description: "User Control Panel Nocturne Roleplay!",
 };
 
 export default function RootLayout({
